@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NBIHAD", "NBIHAD\NBIHAD.vcxproj", "{C823B33C-27A8-4D11-A475-D965959A46D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Debug|x64.ActiveCfg = Debug|x64
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Debug|x64.Build.0 = Debug|x64
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Debug|x86.Build.0 = Debug|Win32
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Release|x64.ActiveCfg = Release|x64
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Release|x64.Build.0 = Release|x64
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Release|x86.ActiveCfg = Release|Win32
+		{C823B33C-27A8-4D11-A475-D965959A46D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89DDBE5-276E-4413-8BB3-7F4241C8D7F1}
+	EndGlobalSection
+EndGlobal
